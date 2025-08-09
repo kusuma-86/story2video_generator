@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+diffusers
+transformers
+torch
+scipy
+pillow
+bark
